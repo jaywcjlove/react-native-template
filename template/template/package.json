@@ -44,7 +44,7 @@
     "mocker-api": "2.9.1",
     "eslint-plugin-prettier": "4.0.0",
     "prettier": "2.4.1",
-    "react-native-codegen": "0.0.7",
+    "react-native-codegen": "0.0.8",
     "react-test-renderer": "17.0.2"
   },
   "jest": {
